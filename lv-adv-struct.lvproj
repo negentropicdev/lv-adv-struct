@@ -15,7 +15,7 @@
 			<Item Name="Test Type A.lvclass" Type="LVClass" URL="../Test Type A/Test Type A.lvclass"/>
 			<Item Name="Test Type B.lvclass" Type="LVClass" URL="../Test Type B/Test Type B.lvclass"/>
 		</Item>
-		<Item Name="Advanced Structures.lvlib" Type="Library" URL="../Advanced Structures/Advanced Structures.lvlib"/>
+		<Item Name="PathTree.lvlib" Type="Library" URL="../PathTree/PathTree.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Delimited String to 1D String Array.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Delimited String to 1D String Array.vi"/>
